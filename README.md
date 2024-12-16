@@ -31,4 +31,4 @@ column1 FROM table_name WHERE id > 2
 TABLE table_name
 ```
 
-데이터베이스가 만들어지고 수정되고 삭제되는것이 눈에보이게 만들고 싶어서 html을 활용해 구현했다
+데이터베이스가 만들어지고 수정되고 삭제되는것이 눈에보이게 만들고 싶어서 html을 활용해 구현해봤습니다.
